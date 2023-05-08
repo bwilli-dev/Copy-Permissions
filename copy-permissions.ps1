@@ -1,4 +1,4 @@
-#langugae: PowerShell
+#language: PowerShell
 #Copy ACL(Security Permissions) from one folder to another
 
 $source_path = "path\to\source"
